@@ -1,1 +1,15 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+  "repositories": [
+    "beefyfinance/beefy-api",
+    "beefyfinance/beefy-app",
+    "beefyfinance/beefy-app-heco",
+    "beefyfinance/beefy-contracts",
+    "beefyfinance/beefy-cowllector",
+    "beefyfinance/beefy-dashboard",
+    "beefyfinance/beefy-barn",
+    "beefyfinance/snapshots",
+    "beefyfinance/beefy-gov",
+    "beefyfinance/beefy-vote",
+    "beefyfinance/beefy-vote-api"
+  ]
+}
